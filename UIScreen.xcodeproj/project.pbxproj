@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D826D0792AFC0AA7006E09AE /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D826D0782AFC0AA7006E09AE /* ProfileView.swift */; };
+		D826D07F2AFC1799006E09AE /* DestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D826D07E2AFC1799006E09AE /* DestinationView.swift */; };
 		D8B70DFF2AFC0254003B9152 /* UIScreenApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B70DFE2AFC0254003B9152 /* UIScreenApp.swift */; };
 		D8B70E012AFC0254003B9152 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B70E002AFC0254003B9152 /* ContentView.swift */; };
 		D8B70E032AFC0256003B9152 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8B70E022AFC0256003B9152 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D826D0782AFC0AA7006E09AE /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		D826D07E2AFC1799006E09AE /* DestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationView.swift; sourceTree = "<group>"; };
 		D8B70DFB2AFC0254003B9152 /* UIScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8B70DFE2AFC0254003B9152 /* UIScreenApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIScreenApp.swift; sourceTree = "<group>"; };
 		D8B70E002AFC0254003B9152 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +59,8 @@
 				D8B70E002AFC0254003B9152 /* ContentView.swift */,
 				D8B70E022AFC0256003B9152 /* Assets.xcassets */,
 				D8B70E042AFC0256003B9152 /* Preview Content */,
+				D826D0782AFC0AA7006E09AE /* ProfileView.swift */,
+				D826D07E2AFC1799006E09AE /* DestinationView.swift */,
 			);
 			path = UIScreen;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8B70E012AFC0254003B9152 /* ContentView.swift in Sources */,
+				D826D07F2AFC1799006E09AE /* DestinationView.swift in Sources */,
+				D826D0792AFC0AA7006E09AE /* ProfileView.swift in Sources */,
 				D8B70DFF2AFC0254003B9152 /* UIScreenApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
